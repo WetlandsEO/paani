@@ -1,14 +1,9 @@
-# Creative Theme for Jekyll
+# WetlandsEO
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+Public website for the WetlandsEO.
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+Our team is working to bring the power of remote sensing to accurately map wetlands, and deliver data-driven insights that supports diverse users in management, conservation and restoration. We hope that you’ll join us in creating a product that accounts for the services that intact wetlands provide to everyone. 
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+See it live in action at <bogs.world/>
 
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+## Feedback welcome
