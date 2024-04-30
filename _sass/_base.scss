@@ -224,7 +224,9 @@ header {
 
 .portfolio-box {
   position: relative;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   max-width: 650px;
   margin: 0 auto;
   .portfolio-box-caption {
@@ -319,6 +321,10 @@ header {
 #contact .fa {
   color: $theme-dark;
   font-size: 4em;
+}
+
+#contact {
+  padding-top: 50px;
 }
 
 // Extras
