@@ -1113,6 +1113,7 @@ figure {
 }
 img {
   vertical-align: middle;
+  border: 1px solid red;
 }
 .img-responsive,
 .thumbnail > img,
@@ -1120,10 +1121,9 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   padding: 10px 0px;
-  border: 2px solid red;
 }
 .img-rounded {
   border-radius: 6px;
