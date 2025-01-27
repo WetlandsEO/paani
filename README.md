@@ -1,7 +1,7 @@
 # RyppleX - Open Source Consortium for Wetlands Detection
 
 ## Overview
-RyppleX is an open-source consortium providing tools for wetlands detection. The project aims to empower conservation efforts through accessible, data-driven tools and resources for environmental analysis. This site serves as the landing page for the consortium.
+RyppleX is an open-source consortium providing tools for detecting water on landscape (lakes, streams, and wetlands). The project aims to boost conservation efforts through accessible, data-driven tools and resources for environmental analysis. This site serves as the landing page for the consortium.
 
 ## Features
 - **Open Source Collaboration:** Encourages community contributions and shared development.
